@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of animals with this quiz.",
+  "questions": [
+    {
+      "question": "Fastest land animal?",
+      "answers": ["Cheetah", "Tiger", "Horse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest mammal?",
+      "answers": ["Elephant", "Whale", "Giraffe"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "A group of lions is?",
+      "answers": ["Pack", "Pride", "Herd"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Bird that can’t fly?",
+      "answers": ["Penguin", "Eagle", "Sparrow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Mammal that lays eggs?",
+      "answers": ["Bat", "Platypus", "Tiger"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Tallest animal?",
+      "answers": ["Giraffe", "Elephant", "Lion"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Heaviest snake?",
+      "answers": ["Python", "Viper", "Anaconda"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Fastest bird?",
+      "answers": ["Eagle", "Falcon", "Owl"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Biggest fish?",
+      "answers": ["Shark", "Tuna", "Salmon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Color of flamingo?",
+      "answers": ["Blue", "Pink", "Green"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Animal with trunk?",
+      "answers": ["Lion", "Elephant", "Rhino"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "King of the jungle?",
+      "answers": ["Tiger", "Lion", "Bear"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Bear found in Arctic?",
+      "answers": ["Polar", "Brown", "Black"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Only bird that hovers?",
+      "answers": ["Eagle", "Penguin", "Hummingbird"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Fastest marine animal?",
+      "answers": ["Shark", "Tuna", "Sailfish"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "A baby kangaroo?",
+      "answers": ["Cub", "Joey", "Calf"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Largest land animal?",
+      "answers": ["Whale", "Elephant", "Giraffe"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Animal with hump?",
+      "answers": ["Camel", "Elephant", "Horse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Symbol of peace?",
+      "answers": ["Crow", "Dove", "Eagle"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Longest lifespan?",
+      "answers": ["Turtle", "Elephant", "Lion"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
